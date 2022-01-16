@@ -1,3 +1,4 @@
 .env
 venv_plantilla
 BASE_DE_DATOS
+__pycache__
